@@ -1,0 +1,38 @@
+.bg-dark {
+  padding: 10px 50px !important;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
+
+.appLink {
+  text-decoration: none !important;
+  color: white !important;
+  margin: 10px;
+}
+
+.appLink:hover {
+  color: #17a2b8 !important;
+}
+
+.activeLink {
+  color: rgb(199, 110, 8) !important;
+}
+
+/* .loginBtn { */
+/* margin-left: 500px; */
+/* align-self: flex-end; */
+/* } */
+
+/* 
+   .adminLink {
+    color: #138799 !important;
+    text-decoration: none !important;
+    padding: 10px;
+  }
+  
+  .adminLink:hover {
+    color: white !important;
+  } */

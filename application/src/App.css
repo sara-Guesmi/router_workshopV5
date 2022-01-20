@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  margin: 50px 0 40px 0 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.homeContent,
+.adminContent,
+.usersList {
+  margin: 50px 10%;
+}

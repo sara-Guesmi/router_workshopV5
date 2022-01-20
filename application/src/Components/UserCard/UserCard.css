@@ -1,0 +1,18 @@
+.card {
+  width: 15rem;
+  height: 190px;
+  background-color: #1a8391 !important;
+  color: white;
+  margin: 3% 2% !important;
+}
+
+.cardToLink {
+  margin: 0 3%;
+}
+
+span {
+  color: black;
+}
+.card-title {
+  color: black;
+}
